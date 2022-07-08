@@ -1,2 +1,4 @@
-# Snake-s-Challenge
-If you remember your childhood favourite game: Snake's Challenge, Let's create and play a snake game with some javascript and canvas things. 
+# Snake's Challenge
+If you remember your childhood favourite game: Snake's Challenge, A sample is built with some javascript and canvas things. 
+
+Play Online: https://nabaraj222.github.io/Snake-Challenge/
